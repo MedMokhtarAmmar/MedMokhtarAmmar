@@ -3,7 +3,8 @@
 <img width="100%" height = "250px" src="https://d1fmx1rbmqrxrr.cloudfront.net/zdnet/i/edit/ne/2021/09/multi_inter_cloud_1200.jpg" alt="cover" />
 </div>
 
-<h1 align='center'> Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1 align='center'> Hello World <h3 align="center">A passionate Devops engineer</h3>
+<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mohammed-mokhtar-ammar)
@@ -41,13 +42,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-<h3 align="center">A passionate Devops engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=medmokhtarammar&label=Profile%20views&color=0e75b6&style=flat" alt="medmokhtarammar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=medmokhtarammar" alt="medmokhtarammar" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
