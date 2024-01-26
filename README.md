@@ -40,15 +40,7 @@
 </div>
 <h2> About Me</h2>
 
-<div align="center">
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=MedMokhtarAmmar&show_icons=true&theme=tokyonight)
-
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MedMokhtarAmmar&hide=html,css&theme=tokyonight)
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MedMokhtarAmmar&theme=tokyonight)
-
-</div>
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='75px'> </h2>
 <a href="https://github.com/MedMokhtarAmmar">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=MedMokhtarAmmar&count_private=true&show_icons=true&theme=tokyonight" />
