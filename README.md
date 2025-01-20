@@ -1,6 +1,6 @@
 # WELCOME 
 <div align="center">
-<img width="100%" height = "250px" src="https://d1fmx1rbmqrxrr.cloudfront.net/zdnet/i/edit/ne/2021/09/multi_inter_cloud_1200.jpg" alt="cover" />
+<img width="100%" height = "250px" src="https://tech-radix.com/wp-content/uploads/2022/03/DevOPs.png" alt="cover" />
 </div>
 
 <h1 align='center'> Hello World <h3 align="center">A passionate Devops engineer</h3>
